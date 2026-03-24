@@ -99,6 +99,7 @@ Day 2: Learned Variables, Data Types, Type Casting, and User Input with practice
 ---
 
 ## 🎯 Mini Project
+
 ### 📊 Student Result Checker
 - Takes marks as input
 - Displays result:
@@ -126,7 +127,6 @@ Day 2: Learned Variables, Data Types, Type Casting, and User Input with practice
 
 ## 📸 Output Screenshot
 <img width="1772" height="997" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/45c741d8-3a3a-4380-935b-b3b9afc22f60" />
-
 
 ---
 
