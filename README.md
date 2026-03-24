@@ -67,6 +67,74 @@ Day 2: Learned Variables, Data Types, Type Casting, and User Input with practice
 🚀 Next: Operators & Conditional Statements
 
 ---
+# 🐍 Python Learning Journey - Day 3
+
+🚀 Consistently learning Python for placements (Day-wise progress)
+
+---
+
+## 📌 Topics Covered
+- Operators in Python
+  - Arithmetic Operators
+  - Comparison Operators
+  - Logical Operators
+- Conditional Statements
+  - if
+  - if-else
+  - if-elif-else
+
+---
+
+## 💻 Programs Included
+- Basic operator examples
+- Voting eligibility checker
+- Grade calculator
+- Even or Odd checker
+- Positive / Negative / Zero checker
+- Largest of 2 numbers
+- Largest of 3 numbers
+- Simple calculator
+- Leap year checker
+
+---
+
+## 🎯 Mini Project
+### 📊 Student Result Checker
+- Takes marks as input
+- Displays result:
+  - Excellent
+  - Good
+  - Pass
+  - Fail
+
+---
+
+## 🎯 Learning Outcome
+- Understood how to use operators in Python
+- Learned decision-making using if-else
+- Built logic-based programs
+- Improved problem-solving skills
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+<img width="1772" height="997" alt="Screenshot (329)" src="https://github.com/user-attachments/assets/45c741d8-3a3a-4380-935b-b3b9afc22f60" />
+
+
+---
+
+## 📅 Progress
+✔ Day 3 Completed  
+🚀 Next: Loops (for, while) + Patterns
+
+---
 
 ## 🔗 Author
 Swathi R  
