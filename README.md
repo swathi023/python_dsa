@@ -139,3 +139,72 @@ Day 2: Learned Variables, Data Types, Type Casting, and User Input with practice
 ## 🔗 Author
 Swathi R  
 Aspiring AI/ML Engineer
+
+# 🐍 Python Learning Journey - Day 4
+
+💡 Practicing Python + DSA daily to crack product-based companies
+
+---
+
+## 📌 Topics Covered
+- Loops in Python
+  - for loop
+  - while loop
+- Nested loops
+- Pattern printing
+
+---
+
+## 💻 Programs Included
+- Basic for loop example
+- While loop example
+- Sum of first N numbers
+- Factorial of a number
+- Reverse a number
+
+---
+
+## 🔢 Pattern Problems
+- Star pattern (increasing)
+- Number pattern
+- Reverse star pattern
+
+---
+
+## 🎯 Mini Project
+### 📊 Multiplication Table Generator
+- Takes a number as input
+- Prints multiplication table (1 to 10)
+
+---
+
+## 🎯 Learning Outcome
+- Understood how to use loops for repetition
+- Built logic for solving problems using loops
+- Learned pattern printing (important for interviews)
+- Improved problem-solving skills
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+<img width="1920" height="1080" alt="Screenshot (330)" src="https://github.com/user-attachments/assets/b208a4b5-cbca-4127-b8ce-84d475826072" />
+
+
+---
+
+## 📅 Progress
+✔ Day 4 Completed  
+🚀 Next: Strings (very important for coding interviews)
+
+---
+
+## 🔗 Author
+Swathi R  
+Aspiring AI/ML Engineer
