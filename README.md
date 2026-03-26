@@ -1,4 +1,4 @@
-# python_dsa
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f4dc6f9-77e6-4290-96ca-5e2ce8a64768" /># python_dsa
 This repository contains my daily Python and Data Structures &amp; Algorithms practice for placement preparation. I am consistently improving my problem-solving skills and building a strong foundation for software development roles.
 # Day 01 - Python + DSA
 
@@ -208,3 +208,73 @@ Aspiring AI/ML Engineer
 ## 🔗 Author
 Swathi R  
 Aspiring AI/ML Engineer
+
+# 🐍 Python Learning Journey - Day 5
+
+💡 Practicing Python + DSA daily to crack product-based companies
+
+---
+
+## 📌 Topics Covered
+- Strings in Python
+- String indexing
+- String slicing
+- String functions
+
+---
+
+## 💻 Programs Included
+- Accessing characters in a string
+- String slicing (forward & reverse)
+- String built-in functions (`upper()`, `lower()`, `title()`, `len()`)
+
+---
+
+## 🔍 String Problems
+- Palindrome checker
+- Count number of vowels
+- Count total characters
+- Reverse a string
+- Remove spaces from string
+
+---
+
+## 🎯 Mini Project
+### 👤 Username Generator
+- Takes name and birth year as input
+- Generates a simple username
+
+---
+
+## 🎯 Learning Outcome
+- Understood string manipulation
+- Learned slicing and indexing techniques
+- Solved basic string-based problems
+- Improved logical thinking for DSA
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+<img width="1920" height="1080" alt="Screenshot (331)" src="https://github.com/user-attachments/assets/02fee808-662c-493f-9546-57544fc3cc4e" />
+
+
+---
+
+## 📅 Progress
+✔ Day 5 Completed  
+🚀 Next: Lists (Arrays in DSA)
+
+---
+
+## 🔗 Author
+Swathi R  
+Aspiring AI/ML Engineer
+
+
