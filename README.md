@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f4dc6f9-77e6-4290-96ca-5e2ce8a64768" /># python_dsa
+
 This repository contains my daily Python and Data Structures &amp; Algorithms practice for placement preparation. I am consistently improving my problem-solving skills and building a strong foundation for software development roles.
 # Day 01 - Python + DSA
 
