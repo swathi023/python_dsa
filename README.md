@@ -277,4 +277,72 @@ Aspiring AI/ML Engineer
 Swathi R  
 Aspiring AI/ML Engineer
 
+# 🐍 Python Learning Journey - Day 6
+
+💡 Practicing Python + DSA daily to crack product-based companies
+
+---
+
+## 📌 Topics Covered
+- Lists in Python (Arrays)
+- List operations
+  - append()
+  - insert()
+  - remove()
+  - pop()
+- Traversing lists using loops
+
+---
+
+## 💻 Programs Included
+- Accessing elements in a list
+- Performing list operations
+- Traversing list using for loop
+- Sum of all elements in a list
+- Finding maximum element
+- Counting even and odd numbers
+- Reversing a list
+- Searching an element in a list
+
+---
+
+## 🎯 Mini Project
+### 📊 Student Marks Analysis
+- Stores student marks in a list
+- Finds:
+  - Highest marks
+  - Lowest marks
+  - Average marks
+
+---
+
+## 🎯 Learning Outcome
+- Understood list (array) data structure
+- Learned how to manipulate list elements
+- Built logic for solving array-based problems
+- Improved problem-solving skills for DSA
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+(Add your screenshot here)
+
+---
+
+## 📅 Progress
+✔ Day 6 Completed  
+🚀 Next: Advanced Lists, Sorting & Searching
+
+---
+
+## 🔗 Author
+Swathi R  
+Aspiring AI/ML Engineer
 
