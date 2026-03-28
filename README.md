@@ -347,3 +347,65 @@ Aspiring AI/ML Engineer
 Swathi R  
 Aspiring AI/ML Engineer
 
+# 🐍 Python Learning Journey - Day 7
+
+💡 Practicing Python + DSA daily to crack product-based companies
+
+---
+
+## 📌 Topics Covered
+- Sorting in Python
+  - Built-in sorting (`sort()`)
+  - Manual sorting (Bubble Sort)
+- Searching Techniques
+  - Linear Search
+  - Binary Search
+
+---
+
+## 💻 Programs Included
+- Sorting list in ascending and descending order
+- Implementing Bubble Sort algorithm
+- Linear search to find an element
+- Binary search (efficient searching method)
+
+---
+
+## 🎯 Mini Project
+### 🏆 Student Rank System
+- Stores student marks in a list
+- Sorts marks in descending order
+- Finds the topper marks
+
+---
+
+## 🎯 Learning Outcome
+- Understood sorting techniques
+- Learned searching algorithms
+- Implemented Binary Search (important for interviews)
+- Improved problem-solving and optimization thinking
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+(Add your screenshot here)
+
+---
+
+## 📅 Progress
+✔ Day 7 Completed  
+🚀 Next: Functions (modular programming)
+
+---
+
+## 🔗 Author
+Swathi R  
+Aspiring AI/ML Engineer
+
