@@ -395,7 +395,8 @@ Aspiring AI/ML Engineer
 ---
 
 ## 📸 Output Screenshot
-(Add your screenshot here)
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/255219b2-4e9a-4d9b-ace6-b98fde935bd6" />
+
 
 ---
 
