@@ -408,3 +408,64 @@ Aspiring AI/ML Engineer
 Swathi R  
 Aspiring AI/ML Engineer
 
+
+# 🐍 Python Learning Journey - Day 8
+
+💡 Practicing Python + DSA daily to crack product-based companies
+
+---
+
+## 📌 Topics Covered
+- Strings in Python
+  - String indexing & slicing
+  - String methods (`lower()`, `replace()`)
+- Basic String Problems
+  - Reverse a string
+  - Palindrome check
+  - Count vowels
+  - Remove spaces
+  - Remove duplicate characters
+
+---
+
+## 💻 Programs Included
+- Reverse a string using slicing
+- Check whether a string is palindrome
+- Count number of vowels in a string
+- Remove spaces from a string
+- Remove duplicate characters from a string
+
+---
+
+## 🎯 Mini Project
+### 🏆 String Utility Tool (Menu-Driven Program)
+- User selects operation from menu
+- Performs multiple string operations
+- Displays result instantly
+- Combines multiple concepts into one program
+
+---
+
+## 🎯 Learning Outcome
+- Gained strong understanding of string manipulation
+- Practiced multiple string-based problems
+- Improved logical thinking using conditions and loops
+- Learned how to build menu-driven programs
+
+---
+
+## 🛠️ Tools Used
+- Python
+- Google Colab
+- GitHub
+
+---
+
+## 📸 Output Screenshot
+
+
+---
+
+## 📅 Progress
+✔ Day 8 Completed  
+🚀 Next: Arrays (Start of core DSA)
